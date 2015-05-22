@@ -1,0 +1,11 @@
+{
+  "name": "informatics-badge",
+  "version": "0.0.1",
+  "description": "A directive to include the Informatics Lab prototype badge",
+  "main": "src/informatics-badge.js",
+  "author": "Jacob Tomlinson <jacob@jacobtomlinson.co.uk>",
+  "license": "GPLv3",
+  "dependencies": {
+    "bower": "^1.4.1"
+  }
+}
