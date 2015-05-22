@@ -1,10 +1,10 @@
 {
   "name": "informatics-badge-directive",
-  "main": {
+  "main": [
     "src/informatics-badge.js",
     "src/informatics-badge.html",
     "src/informatics-badge.png"
-  },
+  ],
   "version": "0.0.1",
   "authors": [
     "Jacob Tomlinson <jacob@jacobtomlinson.co.uk>"
